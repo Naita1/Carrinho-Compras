@@ -27,7 +27,7 @@ O projeto visa aprimorar habilidades de lógica de programação, manipulação 
 
 
 ## 🔗 Link do Projeto
-[Acesse o AluraBooks](https://carrinho-compras-wheat-eight.vercel.app/)
+[Acesse o Carrinho de Compras](https://carrinho-compras-wheat-eight.vercel.app/)
 
 ---
 ✍️ Desenvolvido durante os estudos na Alura.
